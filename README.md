@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Vue 3 Comments Management Project
 
 Bu proje, Vue 3 ve PrimeVue kullanılarak geliştirilmiş bir yorum yönetim sistemidir. Bileşen bazlı mimari kullanılarak oluşturulmuştur.
@@ -104,4 +104,4 @@ git push origin feature/yeni-ozellik
 =======
 # vueProject
 Vue 3 Comments Management Project
->>>>>>> cd27d11f68453233a7ee27a234453ce583f98107
+
